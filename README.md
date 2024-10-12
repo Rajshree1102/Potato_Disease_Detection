@@ -26,7 +26,7 @@ To get started with this project, follow these steps:
 
 ### Clone the repository
 
-`git clone https://github.com/Rajshree1102/Potato_leaf_disease_detection`
+`git clone https://github.com/Rajshree1102/Potato_Disease_Detection`
 
 ### Install dependencies
 
@@ -41,9 +41,9 @@ A Streamlit web application has been developed for potato disease classification
 `streamlit run potato_disease_web.py`
 
 # Results
-- Accuracy on Training Set: 99%
+- Accuracy on Training Set: 97.7%
 
-- Accuracy on Test Set: 98.7%
+- Accuracy on Test Set: 98.2%
 
       
 
