@@ -27,6 +27,7 @@ To get started with this project, follow these steps:
 ### Clone the repository
 
 `git clone https://github.com/Rajshree1102/Potato_Disease_Detection`
+    Go into this Directory: 'cd Potato_Disease_Detection'
 
 ### Install dependencies
 
